@@ -3,7 +3,7 @@
 This repository is a collection of notebooks and a report describing a deep learning competition organized for the students of the course Artificial Neural Networks and Deep Learning at Politecnico di Milano. The competition involved classifying images of leaves into different plant species. The goal was to predict the correct class label for a given image.
 
 ![leaf-image](https://github.com/danimanfre/leaf-image-classification/assets/60256100/e132dfd5-488e-4090-95df-6027de19731b)
-![leaf-image](https://github.com/danimanfre/leaf-image-classification/assets/60256100/40fdd3cf-98f6-4696-8cc2-5db2274cf8c2)
+![leaf-image](https://github.com/danimanfre/leaf-image-classification/assets/60256100/0c7e9ef2-5dfe-437c-913e-bc38a8bb6174)
 
 
 The competition details and dataset can be found on CodaLab at this link: https://codalab.lisn.upsaclay.fr/competitions/226.
