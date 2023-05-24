@@ -4,7 +4,7 @@ This repository is a collection of notebooks and a report describing a deep lear
 
 The competition details and dataset can be found on CodaLab at this link: https://codalab.lisn.upsaclay.fr/competitions/226.
 
-The repository includes a report that outlines the approach taken by the team called "Polimi Dropouts." It describes their workflow, the challenges they faced, how they addressed some of those challenges, and provides insights into their best models. The report explains the rationale behind their model choices and presents the results they achieved.
+The repository includes a report that outlines the approach taken by my team called "Polimi Dropouts." It describes our workflow, the challenges we faced, how we addressed some of those challenges, and provides insights into our best models. The report explains the rationale behind our model choices and presents the results we achieved.
 
 The notebooks in the repository implement some of the team's most successful models named MarkZuckerberg, SteveJobs, and BillGates. Additionally, there is a notebook called BalanceData that contains the code used for data preprocessing.
 
